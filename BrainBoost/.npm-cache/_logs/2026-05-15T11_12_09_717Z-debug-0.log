@@ -1,0 +1,30 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.12.1
+2 info using node@v24.15.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Laptop\Documents\BrainBoost\.npmrc
+5 silly config load:file:C:\Users\Laptop\.npmrc
+6 silly config load:file:C:\Users\Laptop\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--cache" ".\\.npm-cache" "--include" "optional" "--no-audit" "--no-fund"
+9 verbose logfile logs-max:10 dir:C:\Users\Laptop\Documents\BrainBoost\.npm-cache\_logs\2026-05-15T11_12_09_717Z-
+10 verbose logfile C:\Users\Laptop\Documents\BrainBoost\.npm-cache\_logs\2026-05-15T11_12_09_717Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+13 silly idealTree buildDeps
+14 verbose shrinkwrap failed to load node_modules/.package-lock.json missing from node_modules: node_modules/lightningcss-win32-x64-msvc
+15 silly reify moves {}
+16 http cache lightningcss-win32-x64-msvc@https://registry.npmjs.org/lightningcss-win32-x64-msvc/-/lightningcss-win32-x64-msvc-1.32.0.tgz 0ms (cache hit)
+17 http cache @rolldown/binding-win32-x64-msvc@https://registry.npmjs.org/@rolldown/binding-win32-x64-msvc/-/binding-win32-x64-msvc-1.0.1.tgz 0ms (cache hit)
+18 silly tarball no local data for lightningcss-win32-x64-msvc@https://registry.npmjs.org/lightningcss-win32-x64-msvc/-/lightningcss-win32-x64-msvc-1.32.0.tgz. Extracting by manifest.
+19 silly tarball no local data for @rolldown/binding-win32-x64-msvc@https://registry.npmjs.org/@rolldown/binding-win32-x64-msvc/-/binding-win32-x64-msvc-1.0.1.tgz. Extracting by manifest.
+20 http fetch GET 200 https://registry.npmjs.org/lightningcss-win32-x64-msvc/-/lightningcss-win32-x64-msvc-1.32.0.tgz 14863ms (cache miss)
+21 http fetch GET 200 https://registry.npmjs.org/@rolldown/binding-win32-x64-msvc/-/binding-win32-x64-msvc-1.0.1.tgz 30781ms (cache miss)
+22 silly ADD node_modules/lightningcss-win32-x64-msvc
+23 silly ADD node_modules/@rolldown/binding-win32-x64-msvc
+24 verbose cwd C:\Users\Laptop\Documents\BrainBoost
+25 verbose os Windows_NT 10.0.26200
+26 verbose node v24.15.0
+27 verbose npm  v11.12.1
+28 verbose exit 0
+29 info ok
